@@ -8,3 +8,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Badminton and volleyball player, Hearthstone enthusiast, and believer in the potential of AI to transform diverse fields and applications.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaytesvZY)](https://github.com/anuraghazra/github-readme-stats)
